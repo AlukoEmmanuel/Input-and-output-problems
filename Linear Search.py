@@ -1,3 +1,3 @@
 def linearSearch(arr, target):
-    for i in range(lent(arr)):
+    for i in range(len(arr)):
         if arr
